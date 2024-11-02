@@ -6,7 +6,7 @@ body{
     scroll-behavior: smooth;
 }
 #page1{
-    background-image: url('/images/11062b_b35e39e734284486a1293ef3c6a3145b~mv2.jpg');
+    background-image: url('./images/11062b_b35e39e734284486a1293ef3c6a3145b~mv2.jpg');
     height: 650px;
     background-size: cover;
     background-position: center;
@@ -261,7 +261,7 @@ body{
     border: none;
 }
 #page3{
-    background-image: url('/images/11062b_d86a12c9f109497da61e9f9cb1d36970~mv2.jpg');
+    background-image: url('./images/11062b_d86a12c9f109497da61e9f9cb1d36970~mv2.jpg');
     height: 800px;
     background-size: cover;
 }
