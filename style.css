@@ -133,7 +133,7 @@ body{
     font-size: 40px;
 }
 .background-container {
-    background-image: url('path/to/your/image.jpg'); 
+    background-image: url('./assets/11062b_b35e39e734284486a1293ef3c6a3145b~mv2.jpg');
     background-size: cover; 
     background-position: center; 
     width: 100%; 
